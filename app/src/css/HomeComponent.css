@@ -1,0 +1,24 @@
+.home-heading{
+    color: white;
+    font-weight: lighter;
+    position: relative;
+    left: 700px;
+}
+  
+.home-bt{
+    color: white;
+    font-weight: lighter;
+    background-color: rgb(7, 179, 7);
+    width: 200px;
+    height: 40px;
+    border-radius: 100px;
+    outline: none;
+    cursor: pointer;
+    font-size: 20px;
+    position: relative;
+    left: 650px;
+}
+.home{
+    text-align: center;
+    margin-top: 300px;
+}
